@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-black font-sans;
+    transition-property: background-color, color;
+    transition-duration: 500ms;
+  }
+  body.theme-grey {
+    @apply bg-gray-200 text-black;
+  }
+  body.theme-black {
+    @apply bg-black text-white;
+  }
+} 

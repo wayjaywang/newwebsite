@@ -1,0 +1,79 @@
+[
+  {
+    "company": "United Nations Development Programme",
+    "title": "Digital Transformation, Chief Digital Office",
+    "date": "May 2024 - Nov 2024",
+    "description": "Designing and planning key strategic initiatives within the Digital Capacity Building workstream, focusing on digital transformation at UNDP. Developing and facilitating new courses around citizen-centered policy design sprints.",
+    "imageUrl": "https://picsum.photos/seed/undp/400/300"
+  },
+  {
+    "company": "Google",
+    "title": "User Experience Design Strategist, Android",
+    "date": "Jan 2021 - May 2024",
+    "description": "Leading international product initiatives for Google-branded Android devices, focusing on the intersections of priority markets, user needs, and business strategy. Defining C-suite-facing high-level product strategy across 5 priority markets. Managing and driving collaboration across 6 product teams by establishing a design engagement process.",
+    "imageUrl": "https://picsum.photos/seed/google1/400/300"
+  },
+  {
+    "company": "Google",
+    "title": "User Experience Design Lead, Phone By Google",
+    "date": "Jun 2020 - Jan 2021",
+    "description": "Mitigated privacy and geopolitical concerns by addressing critical edge cases with a principled systems thinking design approach. Strengthened relationships with strategically important hardware partners by developing product features that fulfill international carrier requirements. Launched Direct My Call, a feature that uses Machine Learning to visualize a phone tree and make it actionable for users (Patent: US11895269B2).",
+    "imageUrl": "https://picsum.photos/seed/google2/400/300"
+  },
+  {
+    "company": "Google",
+    "title": "Design Sprint Advocate, Google Design Outreach",
+    "date": "Mar 2019 - May 2020",
+    "description": "Planned and facilitated multiple design and innovation workshops. Selected partners include Indonesia Department of Education, Médecins Sans Frontières, RTI International, Google for Startups. Leveled up Regional User-Centered Design skills through community outreach events in Taipei, Tokyo, and Sydney. Established the Global Design Sprint Community (15 chapters, 9500+ chapter attendees).",
+    "imageUrl": "https://picsum.photos/seed/google3/400/300"
+  },
+  {
+    "company": "Google",
+    "title": "User Experience Design Lead, Google Apps for Education",
+    "date": "Sep 2017 - Mar 2019",
+    "description": "Led the design for Assignments by Google, Google Apps for Education's first-ever product in Higher Education, a pivotal business strategy for Apps EDU. Managed a team of 2 designers and led the production timeline.",
+    "imageUrl": "https://picsum.photos/seed/google4/400/300"
+  },
+  {
+    "company": "Google",
+    "title": "User Experience Designer, Google Classroom",
+    "date": "Mar 2015 - Sep 2017",
+    "description": "Led user interaction design of features for Google Classroom: Class Planning, Personalized Assignments, Guardian Access, Annotations, Data Graduation, and visual redesign for Mobile and Web UI. Organized and facilitated design thinking sessions with the cross functional team to examine how new features impact existing user interface and roadmaps.",
+    "imageUrl": "https://picsum.photos/seed/google5/400/300"
+  },
+  {
+    "company": "Google",
+    "title": "User Experience Designer, Google Wallet",
+    "date": "Nov 2013 - Mar 2015",
+    "description": "Led design of the Split Charge user experience, from conception to final high fidelity designs. Feature led to a 46% increase in 30-day-active users the month of launch.",
+    "imageUrl": "https://picsum.photos/seed/google6/400/300"
+  },
+  {
+    "company": "School of Visual Arts",
+    "title": "Adjunct Professor",
+    "date": "Sep 2016 - Aug 2018",
+    "description": "Junior-level Interaction Design Core classes. Digital Design (Fall 2016) + Digital Ecosystem (Spring 2017). Interaction Design and Communication I (Fall 2017) + II (Spring 2018).",
+    "imageUrl": "https://picsum.photos/seed/sva/400/300"
+  },
+  {
+    "company": "Varsity",
+    "title": "Digital Product Designer",
+    "date": "Apr 2013 - Nov 2013",
+    "description": "Worked with New York based startups on branding, product development, and investor pitch. Clients include: Resy (Acquired by American Express), Spring (Acquired by ShopRunner), Evenly (Acquired by Square).",
+    "imageUrl": "https://picsum.photos/seed/varsity/400/300"
+  },
+  {
+    "company": "Lippencott",
+    "title": "Design Intern",
+    "date": "Jan 2013 - Apr 2013",
+    "description": "Contributed to the visualization and realization of branding, strategy, and interaction design projects. Clients include: Bank of America, United Airlines, Wells Fargo.",
+    "imageUrl": "https://picsum.photos/seed/lippencott/400/300"
+  },
+  {
+    "company": "Facebook",
+    "title": "Product Designer (Contract)",
+    "date": "Aug 2012 - Nov 2012",
+    "description": "Worked on the Graph Search feature and led the design for the new user onboarding experience.",
+    "imageUrl": "https://picsum.photos/seed/facebook/400/300"
+  }
+] 
